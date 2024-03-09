@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: white;
+}
+.motivation-img {
+    width: 100%;
+    border: 10px solid white;
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+    font-family: "Madimi One", sans-serif;
+}
